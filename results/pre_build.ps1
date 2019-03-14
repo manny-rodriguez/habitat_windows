@@ -1,0 +1,5 @@
+$pkg_origin="manny-rodriguez"
+$pkg_name="contosouniversity"
+$pkg_version="0.2.0"
+$pkg_release="20190313141001"
+$pkg_ident="manny-rodriguez/contosouniversity/0.2.0/20190313141001"
